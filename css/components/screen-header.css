@@ -1,0 +1,12 @@
+.screen-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  padding-top: 40px;
+  opacity: 90%;
+}
+
+body {
+  background-color: #f1f1ef !important;
+}
